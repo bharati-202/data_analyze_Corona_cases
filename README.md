@@ -15,7 +15,7 @@ This project provides data analysis and visualization of COVID-19 statistics usi
 
 ## Requirements
 
-- Python 3.x
+Python 3.13.1
 - pandas
 - matplotlib
 - seaborn
