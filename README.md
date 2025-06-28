@@ -46,10 +46,6 @@ The script will display three plots:
 
 - `corona.py` - Main script for data processing and visualization
 
-## Example Output
-
-![Example Plot](example_plot.png)
-
 ## License
 
 This project is licensed under the MIT License.
